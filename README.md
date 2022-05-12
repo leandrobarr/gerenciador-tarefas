@@ -1,4 +1,6 @@
-# GerenciadorTarefas
+# Gerenciador-tarefas
+
+![Captura de Tela (2)](https://user-images.githubusercontent.com/71781012/168121513-17dacc6b-aa57-4a2f-bd7b-c8c06bdf40c2.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
